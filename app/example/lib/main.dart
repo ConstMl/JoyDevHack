@@ -25,7 +25,6 @@ class MyApp extends StatelessWidget {
     ),
     primarySwatch: Colors.blue,
     visualDensity: VisualDensity.adaptivePlatformDensity,
-    accentColor: Colors.purple[800]!
   );
 
   @override
